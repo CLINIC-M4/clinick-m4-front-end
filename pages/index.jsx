@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>Create Next App</title>
+        <title>Clínica M4</title>
       </Head>
       <h1>Olá!</h1>
     </div>
